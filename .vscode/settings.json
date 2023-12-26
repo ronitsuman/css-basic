@@ -1,0 +1,6 @@
+{
+    "livePreview.hostIP": "192.168.1.10",
+    "terminal.integrated.localEchoStyle": "dim",
+    "liveServer.settings.host": "192.168.1.10",
+    "liveServer.settings.useLocalIp": true
+}
